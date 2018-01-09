@@ -13,7 +13,7 @@ If you are having trouble on how to install, this [link](http://docs.python-guid
 ### Starting the program
 
 Once you have _python_ on your computer, it's time to run our program.
-Open the file _entertainment_py_ on your _IDE_ of your choice and run it. It should creates and open a file named **fresh_tomatoes.html**.
+Open the file _entertainment_center_ on your _IDE_ of your choice and run it. It should creates and open a file named **fresh_tomatoes.html**.
 
 ### Changing the program
 If you want to change some informations, here are some tips for you:

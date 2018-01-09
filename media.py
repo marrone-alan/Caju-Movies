@@ -1,10 +1,11 @@
 import webbrowser
 
+
 class Movie():
     """This class provides a way to store movie related information"""
-    
-    
-    def __init__(self, movie_title, movie_storyline, poster_image, trailer_youtube, movie_cast, movie_genre, movie_duration):
+
+    def __init__(self, movie_title, movie_storyline, poster_image,
+                 trailer_youtube, movie_cast, movie_genre, movie_duration):
         """Constructor
 
         Keyword arguments:
@@ -16,7 +17,7 @@ class Movie():
         movie_genre -- some of the categories of the movie
         movie_duration -- the duration of the movie
         """
-        
+
         self.title = movie_title
         self.storyline = movie_storyline
         self.poster_image_url = poster_image
