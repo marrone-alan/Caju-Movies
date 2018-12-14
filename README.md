@@ -4,7 +4,7 @@ This is a **movie trailers** website. It shows information and trailers from mov
 
 ## Programming language
 
-This program was written in _python_.
+This program was developed in _python_.
 
 ### How to install python
 You can download _python_ [here](https://www.python.org/downloads/).
@@ -16,11 +16,11 @@ Once you have _python_ on your computer, it's time to run our program.
 Open the file _entertainment_center_ on your _IDE_ of your choice and run it. It should creates and open a file named **fresh_tomatoes.html**.
 
 ### Changing the program
-If you want to change some informations, here are some tips for you:
+If you want to change some informations, here are some tips:
  
-* All of the information about the movies can be found in the **entertainment_center** file.
-* If you want to add or remove some information, than you need to use the **media** file and the **entertainment_center** file.
-* Ultimate, if you want to change something in the html, use the **fresh_tomatoes** file.
+* All the information about the movies can be found in the **entertainment_center** file.
+* If you want to add or remove some information, you need to use the **media** and the **entertainment_center** file.
+* Finally, if you want to change something in the html, use the **fresh_tomatoes** file.
 
 ## Credits
 
